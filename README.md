@@ -1,1 +1,1 @@
-Please open `INSTRUCTIONS.md` file.
+Please open [`INSTRUCTIONS.md`](INSTRUCTIONS.md) file.
